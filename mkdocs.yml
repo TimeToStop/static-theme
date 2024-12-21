@@ -1,0 +1,6 @@
+theme:
+  name: null
+  custom_dir: theme
+site_name: 'Custom theme'
+site_description: 'My theme on MK DOCS'
+site_author: 'Evgeniy Ratusghnyak'
